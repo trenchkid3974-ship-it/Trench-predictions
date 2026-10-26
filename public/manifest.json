@@ -1,0 +1,10 @@
+
+{
+  "name": "Trench Predictions",
+  "short_name": "Trench",
+  "description": "Football match probabilities and market insights",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#08110e",
+  "theme_color": "#0b1512"
+}
